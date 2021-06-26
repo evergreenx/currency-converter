@@ -1,9 +1,21 @@
-import './App.css';
+import Currency from "./component/Currency";
+
+import React from "react";
 
 function App() {
+
+
   return (
-    <div className="App bg-red-200 h-full">
-     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur labore, alias doloribus laudantium libero excepturi voluptates aliquid repellat, autem dolore dicta iusto similique non ipsam nihil qui delectus cupiditate animi.
+    <div>
+          <h1 className="text-4xl font-bold text-center mt-10 mb-10 text-blue-400">
+          Currency Converter
+        </h1>
+      <div className="App bg-blue-100 h-full p-20 mt-46 items-center rounded-lg shadow-lg justify-evenly">
+
+    
+        <Currency />
+
+      </div>
     </div>
   );
 }
