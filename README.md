@@ -3,15 +3,6 @@
 > Currency Converter
 > Live demo [_here_](https://converter-currency-492b33.netlify.app/).
 
-## Table of Contents
-
-- [General Info](#general-information)
-- [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Project Status](#project-status)
-
 - [Contact](#contact)
 
 ## General Information
